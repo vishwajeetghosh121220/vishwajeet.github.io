@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+
+
+
+.container{
+    width: 100%;
+    padding: 0 105px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+.justify-between{
+    justify-content:space-between;
+}
+
+.justify-around{
+    justify-content: space-around;
+}
+
+.items-center{
+    align-items: center;
+}
+body{
+    background-color: black;
+    border-style: cover;
+    background-origin: padding-box;
+
+
+}
+
